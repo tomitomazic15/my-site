@@ -1,0 +1,21 @@
+.slick-dots li.slick-active button:before {
+    color: $main-font-color;
+} 
+  
+.slick-dots li button:before {
+    color: $main-font-color;
+    font-size: 15px;
+    line-height: 15px;
+    padding-top: 35px;
+} 
+
+.my_carousel {
+    background-color: $primary-color;
+    color:$main-font-color;
+    font-size: 3rem;
+}
+
+// .my_carousel a{
+//     color: $main-font-color!important;
+//     font-size: 2rem;
+// }
